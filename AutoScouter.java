@@ -13,7 +13,7 @@ import org.tbot.wrappers.Player;
 
 import java.io.IOException;
 
-@Manifest(name = "AutoScouter1", authors = "sudo_", version = 0.1, description = "Auto Scouter")
+@Manifest(name = "AutoScouter", authors = "sudo_", version = 0.1, description = "Auto Scouter")
 public class AutoScouter extends AbstractScript implements BotControlMessageListener {
 
 	String server = "irc.swiftirc.net";
